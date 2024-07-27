@@ -1,16 +1,5 @@
 {
   "contacts": [
-    {
-      "id": "b87ffed5-d157-4b82-a3b1-5c12861f7157",
-      "name": "Silver",
-      "email": "silver@gmail.com",
-      "phone": "1234567890"
-    },
-    {
-      "id": "7af5f890-4f4d-4f42-9563-4c7e636f3720",
-      "name": "John Doe",
-      "email": "johndoe@gmail.com",
-      "phone": "54646565"
-    }
+    
   ]
 }
